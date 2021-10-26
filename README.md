@@ -10,8 +10,5 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado completamente desde GitHub!!!
 
 ## Hola mundo
-<<<<<<< HEAD
 actualizar desde GitHub
-=======
 actualizar desde local
->>>>>>> f251693 (Readme actualizado local)
